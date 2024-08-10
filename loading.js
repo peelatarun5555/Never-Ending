@@ -1,7 +1,7 @@
 console.log("HELP");
 $(function(){
   $("#git_photo").on({ mouseenter: function(){
-    $(this).attr('src','img/life.png');
+    $(this).attr('src','life.png');
   },
   mouseleave: function(){
     $(this).attr('src','life copy.png');
